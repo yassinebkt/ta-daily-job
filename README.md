@@ -1,1 +1,1 @@
-# ta-dialy-job
+# ta-daily-job
